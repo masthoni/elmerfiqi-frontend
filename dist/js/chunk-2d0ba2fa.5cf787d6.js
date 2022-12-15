@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ba2fa"],{"35ac":function(i,a,n){"use strict";n.r(a),n.d(a,"LIST_AR",(function(){return o}));const o=["Eko Adi Nugroho","Suwarti","Irhamni","Supriadi","Dian Juwita Sari","Yoshia Samosir"]}}]);
+//# sourceMappingURL=chunk-2d0ba2fa.5cf787d6.js.map

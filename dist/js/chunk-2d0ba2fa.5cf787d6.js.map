@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/utils/listAR.ts"],"names":["LIST_AR"],"mappings":"kHAAA,+CAAO,MAAMA,EAAU,CACrB,kBACA,UACA,UACA,WACA,mBACA","file":"js/chunk-2d0ba2fa.5cf787d6.js","sourcesContent":["export const LIST_AR = [\n  \"Eko Adi Nugroho\",\n  \"Suwarti\",\n  \"Irhamni\",\n  \"Supriadi\",\n  \"Dian Juwita Sari\",\n  \"Yoshia Samosir\",\n];\n"],"sourceRoot":""}

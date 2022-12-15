@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f6ce"],{b428:function(n,t,o){"use strict";o.r(t),o.d(t,"formatDate",(function(){return e}));var r=o("d797");function e(n,t="DD MMMM YYYY"){return r["a"].prototype.$date(n).format(t)}}}]);
+//# sourceMappingURL=chunk-2d20f6ce.d9987baf.js.map
